@@ -1,0 +1,282 @@
+:root {
+    --danger: #c4183c;
+    --pink: #ff4169;
+    --orange: #fb7906;
+    --warning: #ffb400;
+    --teal: #1adba2;
+    --success: #17c671;
+    --info: #00b8d8;
+    --primary: #007bff;
+    --indigo: #674eec;
+    --purple: #8445f7;
+    --white: #fff;
+    --light: #FBFBFB;
+    --light-gray: #f0f0f0;
+    --divider: #dbdbdb;
+    --gray: #868e96;
+    --secondary: #5A6169;
+    --gray-dark: #343a40;
+    --dark: #212529;
+
+    /* Sidebar */
+
+    /* Cor de fundo do sidebar */
+    --sidebar-bg-color: var(--light-gray);
+    /* Cor de fundo do item do sidebar */
+    --sidebar-item-bg-color: var(--light-gray);
+    /* Cor do texto do item do sidebar */
+    --sidebar-item-txt-color: var(--dark);   
+    /* Cor de ícone do item do sidebar */
+    --sidebar-item-icon-color: var(--secondary);   
+
+    /* Cor de fundo do item do sidebar ao passar o mouse */    
+    --hover-sidebar-item-bg-color: var(--divider); 
+    /* Cor do texto do item do sidebar ao passar o mouse */
+    --hover-sidebar-item-txt-color: var(--dark);     
+    /* Cor de ícone do item do sidebar ao passar o mouse */
+    --hover-sidebar-item-icon-color: var(--secondary);   
+
+    /* Cor de fundo do item do sidebar quando ativo */          
+    --active-sidebar-item-bg-color: var(--divider); 
+    /* Cor do texto do item do sidebar quando ativo */
+    --active-sidebar-item-txt-color: var(--dark); 
+    /* Cor do ícone do item do sidebar quando ativo */
+    --active-sidebar-item-icon-color: var(--primary);    
+
+    /* Navbar */
+
+    /* Cor de fundo do navbar */
+    --navbar-bg-color: var(--white);
+    /* Cor do texto no navbar */
+    --navbar-txt-color: var(--dark);
+    /* Cor dos ícones no navbar */
+    --navbar-icon-color: var(--primary);
+
+    /* Cor do nome da empresa no navbar */       
+    --navbar-brand-txt-color: var(--dark); 
+    /* Cor do nome da empresa no navbar ao passar o mouse */  
+    --hover-navbar-brand-txt-color: var(--secondary);
+
+    /* Cor de fundo dos items do dropdown ao passar o mouse */
+    --navbar-hover-dropdown-item-bg-color: var(--primary);
+    /* Cor do texto dos items do dropdown ao passar o mouse */
+    --navbar-hover-dropdown-item-txt-color: var(--white);
+    /* Cor dos ícones dos items do dropdown ao passar o mouse */
+    --navbar-hover-dropdown-item-icon-color: var(--white);
+
+    /* Cor de fundo dos ícones das notificações */
+    --navbar-notification-icon-bg-color: var(--light-gray);
+    /* Cor de fundo dos ícones das notificações ao passar o mouse */
+    --navbar-hover-notification-icon-bg-color: var(--white);
+    /* Cor dos ícones das notificações ao passar o mouse */
+    --navbar-hover-notification-icon-color: var(--primary);
+
+    /* Main content */
+
+    /* Cor de fundo do conteúdo principal */
+    --main-content-bg-color: var(--light);
+
+    /* Footer */
+    
+    /* Cor de fundo do footer */
+    --footer-bg-color: var(--white);    
+    /* Cor de texto do copyright no footer */
+    --footer-copyright-txt-color: var(--secondary);
+    /* Cor de texto dos links no footer */
+    --footer-link-txt-color: var(--primary);
+}
+
+/* Colors */
+
+.bg-light-gray {
+    background-color: var(--light-gray)!important;
+}
+
+/* SideBar */
+
+.main-sidebar {
+    /* box-shadow: none!important; */
+    box-shadow:  
+        0 -1rem 1rem rgba(90,97,105,.1), 
+        0 0.25rem 0.5rem rgba(90,97,105,.12),
+        0 0.9375rem 2rem rgba(90,97,105,.1), 
+        0 0.4375rem 0rem rgba(165,182,201,.1)!important;
+}
+
+.nav-wrapper {    
+    background-color: var(--sidebar-bg-color)!important;    
+}
+
+.main-sidebar .nav .nav-item .nav-link {
+    background-color: var(--sidebar-item-bg-color)!important;
+    color: var(--sidebar-item-txt-color)!important;
+}
+
+.main-sidebar .nav .nav-item .nav-link i {
+    color: var(--sidebar-item-icon-color)!important;    
+}
+
+.main-sidebar .nav .nav-item .nav-link:hover{    
+    color: var(--hover-sidebar-item-txt-color)!important;
+    background-color: var(--hover-sidebar-item-bg-color)!important;    
+    box-shadow: none!important;/*inset 0.1875rem 0 0 var(--hover-sidebar-item-txt-color)!important;*/
+}
+
+.main-sidebar .nav .nav-item .nav-link:hover i {
+    color: var(--hover-sidebar-item-icon-color)!important;
+}
+
+.main-sidebar .nav .nav-item .nav-link.active{
+    color: var(--active-sidebar-item-txt-color)!important;
+    background-color: var(--active-sidebar-item-bg-color)!important;    
+    box-shadow: none!important;/*inset 0.1875rem 0 0 var(--active-sidebar-item-txt-color)*/
+}
+
+.main-sidebar .nav .nav-item .nav-link.active i {
+    color: var(--active-sidebar-item-icon-color)!important;
+}
+
+/* Navbar */
+
+.navbar-brand {
+    color: var(--navbar-brand-txt-color)!important;
+}
+
+.navbar-brand:hover {
+    color: var(--hover-navbar-brand-txt-color)!important;
+}
+
+.main-navbar, .navbar-search, .main-navbar .dropdown, .main-navbar .dropdown-menu, .main-navbar .dropdown-item {    
+    background-color: var(--navbar-bg-color)!important;
+    color: var(--navbar-txt-color)!important;   
+}
+
+.main-navbar .dropdown-item:hover {
+    background-color: var(--navbar-hover-dropdown-item-bg-color)!important;
+    color: var(--navbar-hover-dropdown-item-txt-color)!important;   
+}
+
+.main-sidebar__search{    
+    background-color: var(--navbar-bg-color)!important;
+}
+
+.main-navbar .material-icons {
+    color: var(--navbar-icon-color)!important;
+}
+
+.main-navbar .dropdown-item:hover i {
+    color: var(--navbar-hover-dropdown-item-icon-color)!important;   
+}
+
+.main-navbar .navbar .notifications .dropdown-menu .notification__icon{
+    background-color: var(--navbar-notification-icon-bg-color)!important;
+    box-shadow: none!important;
+}
+
+.main-navbar .navbar .notifications .dropdown-item:hover .notification__icon{
+    background-color: var(--navbar-hover-notification-icon-bg-color)!important;
+}
+
+.main-navbar .navbar .notifications .dropdown-item:hover .notification__icon i{
+    color: var(--navbar-hover-notification-icon-color)!important;
+}
+
+/* Main Content */
+
+.main-content-container {
+    background-color: var(--main-content-bg-color)!important;
+}
+
+/* Footer */
+
+.main-footer {
+    background-color: var(--footer-bg-color)!important;
+    box-shadow: 0 0.125rem 0.625rem rgba(90,97,105,.12)!important;
+}
+
+.main-footer .nav-link {
+    color: var(--footer-link-txt-color)!important;
+}
+
+.main-footer .copyright {
+    color: var(--footer-copyright-txt-color)!important;
+}
+
+/* Paginação */
+
+.pagination .btn-secondary.focus, .pagination .btn-secondary:hover{
+    box-shadow: none!important;
+}
+
+/* collapse */
+
+.disable-collapse-animation.collapsing {
+    -webkit-transition: none;
+    transition: none;
+    display: none;
+}
+
+/* Animation */
+
+/* Animates when col width changes */
+
+.row [class*='col-'] {
+    transition: all 0.3s ease-in-out;
+}
+
+/* custom file */
+  
+.custom-file-label-1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    height: calc(1.5em + .75rem + 3.5px);
+    padding: .375rem .75rem;
+    font-weight: 300;
+    font-size: .8125rem;
+    line-height: 1.4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #495057;
+    background-color: transparent;
+    border: 1px solid #e1e5eb;
+    border-radius: .25rem;
+    overflow: hidden;
+}
+  
+.custom-file-label-1::before {
+    height: calc(1.5em + .75rem + 6.5px);
+    line-height: 2.4;
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 1000; 
+    content: "\f574"!important;
+    color: #495057;
+    border: 0;
+    margin-right: 4px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Datepicker */
+
+.react-datepicker-wrapper {
+	width: 100%;
+}
+
+.react-datepicker__input-container{
+	width: 100%;
+}
+
+.react-datepicker-popper{
+	z-index: 99!important;
+}
+
+.table-border-red{
+    border-color: red;
+    border: 2px solid red;
+}
