@@ -1,0 +1,8 @@
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache

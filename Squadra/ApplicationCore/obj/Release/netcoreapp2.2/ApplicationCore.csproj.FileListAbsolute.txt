@@ -1,0 +1,8 @@
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\bin\Release\netcoreapp2.2\ApplicationCore.deps.json
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\bin\Release\netcoreapp2.2\ApplicationCore.dll
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\bin\Release\netcoreapp2.2\ApplicationCore.pdb
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\obj\Release\netcoreapp2.2\ApplicationCore.csprojAssemblyReference.cache
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\obj\Release\netcoreapp2.2\ApplicationCore.AssemblyInfoInputs.cache
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\obj\Release\netcoreapp2.2\ApplicationCore.AssemblyInfo.cs
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\obj\Release\netcoreapp2.2\ApplicationCore.dll
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\ApplicationCore\obj\Release\netcoreapp2.2\ApplicationCore.pdb

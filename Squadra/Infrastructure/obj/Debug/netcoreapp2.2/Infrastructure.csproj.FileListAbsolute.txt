@@ -1,0 +1,13 @@
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\bin\Projetos Git\scrap-impurity-analysis\ScrapImpurityAnalysisApp\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb

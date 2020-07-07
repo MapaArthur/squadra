@@ -1,0 +1,11 @@
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\bin\Projetos Git\Pessoal\squadra\Squadra\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
